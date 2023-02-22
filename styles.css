@@ -1,0 +1,23 @@
+#headz{
+    color:blue;
+    transition: 1s;
+    text-shadow:brown;
+    border:5px;
+    border-radius: 3px;
+}
+
+#headz:hover{
+    color:rgb(0, 255, 170);
+
+}
+
+
+#josh{
+    color:black;
+    text-underline-offset: 50000px;
+    transition:1s;
+}
+
+#josh:hover{
+    color:blanchedalmond;
+}
