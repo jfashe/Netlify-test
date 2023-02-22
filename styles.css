@@ -18,3 +18,8 @@
 #josh:hover{
     color:blanchedalmond;
 }
+
+iframe {
+    display:block;
+    max-width: 30px;
+}
