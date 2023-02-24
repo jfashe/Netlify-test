@@ -22,3 +22,7 @@
 iframe {
     display:block;
 }
+
+img{
+    image-rendering: optimizeSpeed;
+}
