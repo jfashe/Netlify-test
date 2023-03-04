@@ -19,6 +19,15 @@
     color:blanchedalmond;
 }
 
+small a {
+    text-decoration: none;
+    color: blue;
+}
+
+small a:visited {
+    color:blue;
+}
+
 iframe {
     display:block;
 }
